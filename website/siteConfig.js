@@ -263,6 +263,31 @@ const users = [
     caption: "Porter",
     image: "img/logos/porter.svg",
     infoLink: "https://porter.in/",
+  },
+  {
+    caption: "Oxidizing Systems",
+    image: "img/logos/oxidizing-systems.svg",
+    infoLink: "https://oxidizing.io/",
+  },
+  {
+    caption: "Tenzir",
+    image: "img/logos/tenzir.svg",
+    infoLink: "https://tenzir.com/",
+  },
+  {
+    name: "Wolt",
+    image: "img/logos/wolt.svg",
+    infoLink: "https://wolt.com/"
+  },
+  {
+    name: "Hemnet",
+    image: "img/logos/hemnet.svg",
+    infoLink: "https://hemnet.se",
+  },
+  {
+    name: "Atvero",
+    image: "img/logos/atvero.svg",
+    infoLink: "https://atvero.com",
   }
 ];
 
@@ -291,6 +316,11 @@ const examples = [
     name: "Avatar Generator",
     image: "img/examples/avatar-generator.png",
     link: "https://github.com/draftbit/avatar-generator"
+  },
+  {
+    name: "SwissDev JavaScript Jobs",
+    image: "img/examples/swiss-dev-jobs-square.png",
+    link: "https://swissdevjobs.ch/jobs/JavaScript/All"
   }
 ]
 
